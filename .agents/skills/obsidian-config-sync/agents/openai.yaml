@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Config Sync"
+  short_description: "Sync Obsidian settings with a private GitHub repo"
+  default_prompt: "Use $obsidian-config-sync to sync my Obsidian configuration with GitHub."
